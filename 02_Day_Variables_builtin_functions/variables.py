@@ -1,40 +1,38 @@
+# 📌 Exercises: Level 1
 
-# Variables in Python
+# 'Day 2: 30 Days of python programming'
 
-first_name = 'Asabeneh'
-last_name = 'Yetayeh'
-country = 'Finland'
-city = 'Helsinki'
-age = 250
-is_married = True
-skills = ['HTML', 'CSS', 'JS', 'React', 'Python']
-person_info = {
-    'firstname':'Asabeneh', 
-    'lastname':'Yetayeh', 
-    'country':'Finland',
-    'city':'Helsinki'
-    }
+# 3. 
+first_name = 'Girija'
 
-# Printing the values stored in the variables
+# 4. 
+last_name = 'Varma'
 
-print('First name:', first_name)
-print('First name length:', len(first_name))
-print('Last name: ', last_name)
-print('Last name length: ', len(last_name))
-print('Country: ', country)
-print('City: ', city)
-print('Age: ', age)
-print('Married: ', is_married)
-print('Skills: ', skills)
-print('Person information: ', person_info)
+# 5. 
+full_name = 'Girija Varma'
 
-# Declaring multiple variables in one line
+# 6.
+country = 'India'
 
-first_name, last_name, country, age, is_married = 'Asabeneh', 'Yetayeh', 'Helsink', 250, True
+# 7. 
+city = 'Mumbai'
 
-print(first_name, last_name, country, age, is_married)
-print('First name:', first_name)
-print('Last name: ', last_name)
-print('Country: ', country)
-print('Age: ', age)
-print('Married: ', is_married)
+# 8. 
+age = 1000
+
+# 9. 
+year = 2023
+
+# 10. 
+is_married = False
+
+# 11. 
+is_true = True
+
+# 12.
+is_light_on = True
+
+# 13. 
+myname, city, food = 'Girija Varma', 'Jaipur', 'Kachori'
+
+ 
